@@ -2,7 +2,7 @@
 <h3 align="left">Hello world! I am Nikolas, a young and passionate Data Scientist with a background in Linguistics.</h3>
 
 - Familiarized with state-of-the-art Machine Learning & Deep Learning methods in Python 3.
-- Interested especially in NLP (Natural Language Processing) and Computational Linguistics. 
+- Excited especially about NLP (Natural Language Processing) and Computational Linguistics. 
 - Experienced also in Data Analysis using Python, in Data Engineering using tools such as SQL - NoSQL datbases, AWS, Docker but also in basic Software Engineering using frameworks like Flask, Streamlit, Ngrok and Heroku.
 
 #### Languages & Dataframes:
